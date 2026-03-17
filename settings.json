@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "m5fsh-3MK.aternos.me:46793",
+    "ip": "m5fsh-3MK.aternos.me",
     "port": 46793,
     "version": "",
     "try-creative": false
